@@ -1,0 +1,33 @@
+{
+  "notes": [
+    {
+      "content": "awesome notes!!!",
+      "id": 1
+    },
+    {
+      "content": "he is talking too match",
+      "id": 2
+    },
+    {
+      "content": "he is talking too match",
+      "id": 3
+    }
+  ],
+  "persons": [
+    {
+      "name": "daydy dev",
+      "number": "+225 0101635256",
+      "id": 1
+    },
+    {
+      "name": "belly francky",
+      "number": "+225 0101635256",
+      "id": 2
+    },
+    {
+      "name": "belly francky",
+      "number": "+225 0101635256",
+      "id": 3
+    }
+  ]
+}
